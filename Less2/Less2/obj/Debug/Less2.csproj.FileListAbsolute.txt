@@ -1,0 +1,7 @@
+D:\c#\Less2\Less2\bin\Debug\Less2.exe.config
+D:\c#\Less2\Less2\bin\Debug\Less2.exe
+D:\c#\Less2\Less2\bin\Debug\Less2.pdb
+D:\c#\Less2\Less2\obj\Debug\Less2.csprojAssemblyReference.cache
+D:\c#\Less2\Less2\obj\Debug\Less2.csproj.CoreCompileInputs.cache
+D:\c#\Less2\Less2\obj\Debug\Less2.exe
+D:\c#\Less2\Less2\obj\Debug\Less2.pdb
